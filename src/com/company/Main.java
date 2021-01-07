@@ -24,7 +24,6 @@ public class Main {
         String cng1 = sc.next();
         System.out.println("\t+ Nhap diem TB :");
         float dtb1 = sc.nextFloat();
-
         System.out.println("***Moi nhap ung vien so 2:");
         System.out.println("\t+ Nhap ho ten:");
         String name2 = sc.next();
